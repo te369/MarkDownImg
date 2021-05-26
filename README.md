@@ -1,2 +1,2 @@
 # MarkDownImg
-存储markdown 文件
+存储markdown 图片
